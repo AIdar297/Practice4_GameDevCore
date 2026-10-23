@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameDevCore</string>
+    <string name="morning">Утро</string>
+    <string name="day">День</string>
+    <string name="evening">Вечер</string>
+    <string name="night">Ночь</string>
+</resources>
